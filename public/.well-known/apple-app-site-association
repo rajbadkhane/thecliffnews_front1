@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "D9752925GN.com.thecliff.news",
+        "components": [
+          {
+            "/": "/en/article/*",
+            "comment": "English Article URLs"
+          },
+          {
+            "/": "/hi/article/*",
+            "comment": "Hindi Article URLs"
+          }
+        ]
+      }
+    ]
+  }
+}
